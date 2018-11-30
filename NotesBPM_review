@@ -11,7 +11,13 @@ Problems:
   Visualizations
   Duplicate Tasks
   
-Entropy gives a measure of the amount of information contained in an event sequence and the number of occurrences of events within a process. 
+Entropy gives a measure of the amount of information contained in an event sequence and the number of occurrences of events within a process.
+
+1) Conformance  checking-reflecting  on  the  observed  reality,  i.e.  checking  whether  the  modeled  behavior matches the observed behavior;
+2) Process model discovery-constructing complete and compact process models able to reproduce the observed behavior, and
+3) Process model extension-projection of information extracted from the logs onto the model, to make the tacit knowledge explicit 
+and facilitate better understanding of the process model.
+
 
 Different Perspectives:
   HerbstandKaragiannis(2004)
